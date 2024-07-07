@@ -1,6 +1,0 @@
-2024/05/29-19:38:51.885 5816 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
-2024/05/29-19:38:51.889 5816 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/29-19:39:23.897 5817 Level-0 table #5: started
-2024/05/29-19:39:23.900 5817 Level-0 table #5: 856 bytes OK
-2024/05/29-19:39:23.902 5817 Delete type=0 #3
-2024/05/29-19:39:23.902 5817 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

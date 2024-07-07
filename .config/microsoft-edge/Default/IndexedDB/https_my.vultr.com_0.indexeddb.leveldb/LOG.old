@@ -1,6 +1,0 @@
-2024/05/17-17:35:38.189 a12 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_my.vultr.com_0.indexeddb.leveldb since it was missing.
-2024/05/17-17:35:38.192 a12 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_my.vultr.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/17-17:36:08.292 a23 Level-0 table #5: started
-2024/05/17-17:36:08.294 a23 Level-0 table #5: 1291 bytes OK
-2024/05/17-17:36:08.295 a23 Delete type=0 #3
-2024/05/17-17:36:08.296 a12 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

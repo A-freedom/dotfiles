@@ -1,6 +1,0 @@
-2024/05/10-14:18:26.312 988 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_cart.godaddy.com_0.indexeddb.leveldb since it was missing.
-2024/05/10-14:18:26.316 988 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_cart.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/10-14:18:31.284 989 Level-0 table #5: started
-2024/05/10-14:18:31.286 989 Level-0 table #5: 1941 bytes OK
-2024/05/10-14:18:31.287 989 Delete type=0 #3
-2024/05/10-14:18:31.287 989 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

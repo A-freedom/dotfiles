@@ -1,7 +1,0 @@
-2024/06/12-10:28:30.481 e079 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/WebStorage/77/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/06/12-10:28:30.482 e079 Recovering log #3
-2024/06/12-10:28:30.482 e079 Reusing old log /home/max/.config/microsoft-edge/Default/WebStorage/77/IndexedDB/indexeddb.leveldb/000003.log 
-2024/06/13-03:57:14.724 e079 Level-0 table #5: started
-2024/06/13-03:57:14.726 e079 Level-0 table #5: 64016 bytes OK
-2024/06/13-03:57:14.728 e079 Delete type=0 #3
-2024/06/13-03:57:14.728 e079 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

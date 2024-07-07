@@ -1,6 +1,0 @@
-2024/06/13-04:44:19.800 e078 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb since it was missing.
-2024/06/13-04:44:19.803 e078 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/13-11:12:02.232 e079 Level-0 table #5: started
-2024/06/13-11:12:02.246 e079 Level-0 table #5: 1334 bytes OK
-2024/06/13-11:12:02.248 e079 Delete type=0 #3
-2024/06/13-11:12:02.248 e079 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

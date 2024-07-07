@@ -1,7 +1,0 @@
-2024/06/04-01:10:49.886 1e80 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/04-01:10:49.886 1e80 Recovering log #3
-2024/06/04-01:10:49.888 1e80 Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
-2024/06/04-23:48:48.196 1e81 Level-0 table #5: started
-2024/06/04-23:48:48.198 1e81 Level-0 table #5: 26980 bytes OK
-2024/06/04-23:48:48.200 1e81 Delete type=0 #3
-2024/06/04-23:48:48.200 1e81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
