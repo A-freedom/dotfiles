@@ -1,0 +1,6 @@
+2024/05/09-07:38:00.943 989 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
+2024/05/09-07:38:00.946 989 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/09-07:48:41.770 989 Level-0 table #5: started
+2024/05/09-07:48:41.771 989 Level-0 table #5: 1161 bytes OK
+2024/05/09-07:48:41.773 989 Delete type=0 #3
+2024/05/09-07:48:41.773 989 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

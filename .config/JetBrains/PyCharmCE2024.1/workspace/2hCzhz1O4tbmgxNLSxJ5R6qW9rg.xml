@@ -1,0 +1,558 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="SteelCon-Predictive-Engine" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2ia5dg8yb8ck6" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="164">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/web_server/app.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="246">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="3321">
+                <caret line="81" column="81" selection-start-line="81" selection-start-column="81" selection-end-line="81" selection-end-column="81" />
+                <folding>
+                  <element signature="e#51#120#0#Markdown" expanded="true" />
+                  <element signature="e#123#172#0#Markdown" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/R_CFST_NM/prediction.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="164">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 4,
+      "lastUsed": 1717196861474
+    },
+    "Requirements.txt": {
+      "usageCount": 3,
+      "lastUsed": 1717196831502
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1717193355270
+    },
+    "Image": {
+      "usageCount": 1,
+      "lastUsed": 1717193377783
+    },
+    "Diagrams.net Diagram": {
+      "usageCount": 1,
+      "lastUsed": 1717193370220
+    },
+    "Markdown": {
+      "usageCount": 9,
+      "lastUsed": 1718141498522
+    },
+    "Python": {
+      "usageCount": 44,
+      "lastUsed": 1718141498716
+    },
+    "textmate": {
+      "usageCount": 4,
+      "lastUsed": 1718141498299
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h5</find>
+      <find>early_stopping</find>
+      <find />
+      <find>data_description</find>
+      <find>, loaded_model</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/R_CFST_NM</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/R_CFST_NM/data_preprocessor.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/designing.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/design-tables.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/training.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/prediction.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/load_and_test.py" />
+      <option value="$PROJECT_DIR$/R_CFST_NM/my_tools.py" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/test.py" />
+      <option value="$PROJECT_DIR$/requirements.txt" />
+      <option value="$PROJECT_DIR$/server_requirements.txt" />
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/web_server/app.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Diagrams.net">
+      <summary usageCount="1" lastUsage="1717193370220" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1717193355270" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="9" lastUsage="1718141498522" />
+    </language>
+    <language id="Python">
+      <summary usageCount="44" lastUsage="1718141498716" />
+    </language>
+    <language id="Requirements">
+      <summary usageCount="3" lastUsage="1717196831502" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1717196861474" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="4" lastUsage="1718141498299" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine/DATA}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine/logs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/test/SteelCon-Predictive-Engine/R_CFST_NM}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.run_web_service" />
+      <element setting="Python.test" />
+      <element setting="Python.load_and_test" />
+      <element setting="Python.design-tables" />
+      <element setting="Python.training" />
+      <element setting="Python.statics" />
+      <element setting="Python.designing" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23222657" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.23222657" />
+      <window_info id="Pull Requests" order="2" weight="0.3732422" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.330292" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.330292" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.32810217" />
+      <window_info anchor="bottom" id="Find" order="9" show_stripe_button="false" weight="0.36240876" />
+      <window_info anchor="bottom" id="Debug" order="10" show_stripe_button="false" weight="0.36240876" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25019532" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.32810217" left="0.23222657" right="0.25019532" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>AIAssistant</value>
+      <value>Pull Requests</value>
+      <value>TODO</value>
+      <value>Debug</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="875" y="324" width="966" height="822" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717119600662">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="875" y="324" width="966" height="822" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.2560.1370@0.36.2560.1370" timestamp="1717119600662" />
+    <state x="1067" y="356" width="530" height="698" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1717113247587">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1067" y="356" width="530" height="698" key="#com.intellij.ide.macro.MacrosDialog/0.36.2560.1370@0.36.2560.1370" timestamp="1717113247587" />
+    <state x="1067" y="419" width="609" height="573" key="FileChooserDialogImpl" timestamp="1717115654075">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1067" y="419" width="609" height="573" key="FileChooserDialogImpl/0.36.2560.1370@0.36.2560.1370" timestamp="1717115654075" />
+    <state width="2458" height="396" key="GridCell.Tab.0.bottom" timestamp="1717247180924">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="396" key="GridCell.Tab.0.bottom/0.36.2560.1370@0.36.2560.1370" timestamp="1717247180924" />
+    <state width="2458" height="396" key="GridCell.Tab.0.center" timestamp="1717247180924">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="396" key="GridCell.Tab.0.center/0.36.2560.1370@0.36.2560.1370" timestamp="1717247180924" />
+    <state width="2458" height="396" key="GridCell.Tab.0.left" timestamp="1717247180924">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="396" key="GridCell.Tab.0.left/0.36.2560.1370@0.36.2560.1370" timestamp="1717247180924" />
+    <state width="2458" height="396" key="GridCell.Tab.0.right" timestamp="1717247180924">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="396" key="GridCell.Tab.0.right/0.36.2560.1370@0.36.2560.1370" timestamp="1717247180924" />
+    <state width="2458" height="443" key="GridCell.Tab.1.bottom" timestamp="1717194195325">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="443" key="GridCell.Tab.1.bottom/0.36.2560.1370@0.36.2560.1370" timestamp="1717194195325" />
+    <state width="2458" height="443" key="GridCell.Tab.1.center" timestamp="1717194195325">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="443" key="GridCell.Tab.1.center/0.36.2560.1370@0.36.2560.1370" timestamp="1717194195325" />
+    <state width="2458" height="443" key="GridCell.Tab.1.left" timestamp="1717194195325">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="443" key="GridCell.Tab.1.left/0.36.2560.1370@0.36.2560.1370" timestamp="1717194195325" />
+    <state width="2458" height="443" key="GridCell.Tab.1.right" timestamp="1717194195325">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="2458" height="443" key="GridCell.Tab.1.right/0.36.2560.1370@0.36.2560.1370" timestamp="1717194195325" />
+    <state x="1894" y="1182" width="640" height="173" key="ProcessPopupWindow" timestamp="1717245714357">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1894" y="1182" width="640" height="173" key="ProcessPopupWindow/0.36.2560.1370@0.36.2560.1370" timestamp="1717245714357" />
+    <state x="659" y="268" key="SettingsEditor" timestamp="1717112999753">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="659" y="268" key="SettingsEditor/0.36.2560.1370@0.36.2560.1370" timestamp="1717112999753" />
+    <state x="775" y="391" width="1000" height="629" key="Vcs.Push.Dialog.v2" timestamp="1717280859988">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="775" y="391" width="1000" height="629" key="Vcs.Push.Dialog.v2/0.36.2560.1370@0.36.2560.1370" timestamp="1717280859988" />
+    <state x="947" y="357" width="655" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1717195947303">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="947" y="357" width="655" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.2560.1370@0.36.2560.1370" timestamp="1717195947303" />
+    <state x="1026" y="622" width="498" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1717280894702">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1026" y="622" width="498" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.36.2560.1370@0.36.2560.1370" timestamp="1717280894702" />
+    <state x="881" y="171" width="951" height="1221" key="find.popup" timestamp="1717116717359">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="881" y="171" width="951" height="1221" key="find.popup/0.36.2560.1370@0.36.2560.1370" timestamp="1717116717359" />
+    <state x="859" y="325" width="840" height="1079" key="search.everywhere.popup" timestamp="1717245739182">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="859" y="325" width="840" height="1079" key="search.everywhere.popup/0.36.2560.1370@0.36.2560.1370" timestamp="1717245739182" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/keras/src/saving/saving_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/pandas/core/internals/construction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="642" selection-start-line="642" selection-end-line="642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="525" selection-start-line="525" selection-end-line="525" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/statics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/designing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/h5py/_hl/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/data_preprocessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/filtering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/AISC-R_HSS-design-tables.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_web_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/tensorflow/python/framework/error_interpolation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/design-tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.12/concurrent/futures/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.12/concurrent/futures/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/load_and_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#5#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_flow_diagram.png">
+      <provider selected="true" editor-type-id="diagrams.net JCEF editor" />
+      <provider editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_flow_diagram.drawio">
+      <provider selected="true" editor-type-id="diagrams.net JCEF editor" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/my_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/tensorflow/python/eager/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/pydev_ipython/inputhook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="3321">
+            <caret line="81" column="81" selection-start-line="81" selection-start-column="81" selection-end-line="81" selection-end-column="81" />
+            <folding>
+              <element signature="e#51#120#0#Markdown" expanded="true" />
+              <element signature="e#123#172#0#Markdown" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_CFST_NM/prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_server/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

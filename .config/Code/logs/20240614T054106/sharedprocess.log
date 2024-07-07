@@ -1,0 +1,55 @@
+2024-06-14 05:41:07.882 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:07.901 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.031 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.054 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.080 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.146 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.236 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.280 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.436 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.470 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.745 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.745 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.761 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.872 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:08.971 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:09.055 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:09.887 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:09.974 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:09.983 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:10.712 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:14.936 [info] Getting Manifest... ms-python.python
+2024-06-14 05:41:14.937 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-06-14 05:41:15.394 [info] Installing extension: ms-vscode-remote.remote-ssh vscode-userdata:/home/max/.vscode/extensions/extensions.json
+2024-06-14 05:41:15.395 [info] Installing extension: ms-python.python vscode-userdata:/home/max/.vscode/extensions/extensions.json
+2024-06-14 05:41:15.475 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:15.481 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:15.630 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:15.651 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:15.763 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:15.798 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:17.488 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Executed: true. Duration: 638ms.
+2024-06-14 05:41:17.550 [info] Extracted extension to file:///home/max/.vscode/extensions/ms-vscode-remote.remote-ssh-0.112.0: ms-vscode-remote.remote-ssh
+2024-06-14 05:41:17.553 [info] Renamed to /home/max/.vscode/extensions/ms-vscode-remote.remote-ssh-0.112.0
+2024-06-14 05:41:17.592 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-14 05:41:17.610 [info] Marked extension as uninstalled ms-vscode-remote.remote-ssh-0.110.1
+2024-06-14 05:41:17.629 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/max/.vscode/extensions/extensions.json
+2024-06-14 05:41:17.636 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/max/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/max/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-14 05:41:19.794 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 575ms.
+2024-06-14 05:41:20.913 [info] Extracted extension to file:///home/max/.vscode/extensions/ms-python.python-2024.8.1: ms-python.python
+2024-06-14 05:41:20.925 [info] Renamed to /home/max/.vscode/extensions/ms-python.python-2024.8.1
+2024-06-14 05:41:20.994 [info] Marked extension as uninstalled ms-python.python-2024.8.0
+2024-06-14 05:41:21.021 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/max/.vscode/extensions/extensions.json
+2024-06-14 05:41:21.023 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/max/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/max/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/snap/code/161/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)

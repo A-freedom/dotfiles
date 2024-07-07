@@ -1,0 +1,6 @@
+2024/05/17-16:05:34.964 a12 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb since it was missing.
+2024/05/17-16:05:34.968 a12 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-16:15:18.660 a13 Level-0 table #5: started
+2024/05/17-16:15:18.662 a13 Level-0 table #5: 14288 bytes OK
+2024/05/17-16:15:18.663 a13 Delete type=0 #3
+2024/05/17-16:15:18.663 a13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

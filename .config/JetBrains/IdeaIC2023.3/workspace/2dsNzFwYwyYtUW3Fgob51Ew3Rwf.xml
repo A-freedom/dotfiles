@@ -1,0 +1,228 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="67" column="20" selection-start-line="66" selection-start-column="14" selection-end-line="70" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1710810953878" />
+    </fileType>
+    <fileType name="Dart">
+      <summary usageCount="7" lastUsed="1710813026596" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1710813026618" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filter</find>
+      <find>[{&quot;selectedColumn&quot;:&quot;Column A&quot;,&quot;selectedFilterType&quot;:&quot;Max&quot;,&quot;lowerLimit&quot;:5,&quot;upperLimit&quot;:0},{&quot;selectedColumn&quot;:&quot;Column B&quot;,&quot;selectedFilterType&quot;:&quot;Between&quot;,&quot;lowerLimit&quot;:5,&quot;upperLimit&quot;:10}]</find>
+      <find>DropdownButtonFormField</find>
+      <find>text(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dart">
+      <summary usageCount="7" lastUsage="1710813026596" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1710813026618" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Flutter.main.dart" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3298828" />
+      <window_info id="Commit" order="1" weight="0.33007812" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.43687588" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3298859" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3298859" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.43687588" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" show_stripe_button="false" weight="0.43687588" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.43687588" left="0.33007812" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="959" y="430" key="#xdebugger.evaluate" timestamp="1710808859048">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="959" y="430" key="#xdebugger.evaluate/0.38.2560.1402@0.38.2560.1402" timestamp="1710808859048" />
+    <state x="713" y="423" width="530" height="639" key="FileChooserDialogImpl" timestamp="1710800288816">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="713" y="423" width="530" height="639" key="FileChooserDialogImpl/0.38.2560.1402@0.38.2560.1402" timestamp="1710800288816" />
+    <state width="2456" height="559" key="GridCell.Tab.0.bottom" timestamp="1710813017686">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2456" height="559" key="GridCell.Tab.0.bottom/0.38.2560.1402@0.38.2560.1402" timestamp="1710813017686" />
+    <state width="2456" height="559" key="GridCell.Tab.0.center" timestamp="1710813017686">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2456" height="559" key="GridCell.Tab.0.center/0.38.2560.1402@0.38.2560.1402" timestamp="1710813017686" />
+    <state width="2456" height="559" key="GridCell.Tab.0.left" timestamp="1710813017686">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2456" height="559" key="GridCell.Tab.0.left/0.38.2560.1402@0.38.2560.1402" timestamp="1710813017686" />
+    <state width="2456" height="559" key="GridCell.Tab.0.right" timestamp="1710813017686">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2456" height="559" key="GridCell.Tab.0.right/0.38.2560.1402@0.38.2560.1402" timestamp="1710813017686" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Filter.getAvailableColumns()</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Filter.getAvailableColumns().first</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>widget.filter.selectedColumn = newValue!</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newValue</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>columns.toSet().difference(filters.map((e) =&gt; e.selectedColumn).toSet()).toList()</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>columns.toSet()</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/material/dropdown.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="1618" column="14" selection-start-line="1618" selection-start-column="14" selection-end-line="1618" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/widgets/framework.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1206" column="61" selection-start-line="1206" selection-start-column="26" selection-end-line="1206" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="67" column="20" selection-start-line="66" selection-start-column="14" selection-end-line="70" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

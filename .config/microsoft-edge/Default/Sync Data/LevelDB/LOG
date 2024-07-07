@@ -1,0 +1,6 @@
+2024/07/06-23:00:36.370 d553 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/07/06-23:00:36.370 d553 Recovering log #255
+2024/07/06-23:00:36.370 d553 Reusing old log /home/max/.config/microsoft-edge/Default/Sync Data/LevelDB/000255.log 
+2024/07/07-16:46:18.911 d554 Level-0 table #259: started
+2024/07/07-16:46:18.914 d554 Level-0 table #259: 87093 bytes OK
+2024/07/07-16:46:18.916 d554 Delete type=0 #255

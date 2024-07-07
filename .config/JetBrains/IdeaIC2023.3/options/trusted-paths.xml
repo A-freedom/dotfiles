@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/unnames" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/untitled1" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Graduation_Project/untitled" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Graduation_Project/untitled1" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Graduation_Project/untitled2" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Graduation_Project/web_client" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/SteelCon-Predictive-Engine/web_client" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+2024/07/01-23:25:53.338 ad1 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/01-23:25:53.339 ad1 Recovering log #7
+2024/07/01-23:25:53.343 ad1 Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000007.log 
+2024/07/02-00:32:53.954 ad1 Level-0 table #12: started
+2024/07/02-00:32:53.957 ad1 Level-0 table #12: 211006 bytes OK
+2024/07/02-00:32:53.959 ad1 Delete type=0 #7
+2024/07/02-00:32:53.959 ad1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/02-00:32:53.959 ad1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x0f\x02\x01\x16\x001\x007\x008\x004\x005\x004\x003\x003\x003\x004\x002\x009\x007\x001\x001\x008\x008\x00@\x00m\x00s\x00g\x00r' @ 11968 : 1
+2024/07/02-00:32:53.959 ad1 Compacting 1@1 + 1@2 files
+2024/07/02-00:32:53.962 ad1 Generated table #13@1: 3041 keys, 129718 bytes
+2024/07/02-00:32:53.962 ad1 Compacted 1@1 + 1@2 files => 129718 bytes
+2024/07/02-00:32:53.963 ad1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/02-00:32:53.964 ad1 Delete type=2 #12
+2024/07/02-00:32:53.964 ad1 Delete type=2 #9
+2024/07/02-00:32:53.964 ad1 Manual compaction at level-1 from '\x00\x0a\x0f\x02\x01\x16\x001\x007\x008\x004\x005\x004\x003\x003\x003\x004\x002\x009\x007\x001\x001\x008\x008\x00@\x00m\x00s\x00g\x00r' @ 11968 : 1 .. (end); will stop at (end)

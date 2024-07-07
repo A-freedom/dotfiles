@@ -1,0 +1,15 @@
+2024/05/30-20:26:17.546 49f7 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/30-20:26:17.546 49f7 Recovering log #7
+2024/05/30-20:26:17.546 49f7 Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb/000007.log 
+2024/05/30-22:30:45.707 49f8 Level-0 table #12: started
+2024/05/30-22:30:45.709 49f8 Level-0 table #12: 10300 bytes OK
+2024/05/30-22:30:45.711 49f8 Delete type=0 #7
+2024/05/30-22:30:45.711 49f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/30-22:30:45.711 49f8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 451 : 1
+2024/05/30-22:30:45.711 49f8 Compacting 1@1 + 1@2 files
+2024/05/30-22:30:45.712 49f8 Generated table #13@1: 110 keys, 2434 bytes
+2024/05/30-22:30:45.712 49f8 Compacted 1@1 + 1@2 files => 2434 bytes
+2024/05/30-22:30:45.714 49f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/30-22:30:45.714 49f8 Delete type=2 #12
+2024/05/30-22:30:45.714 49f8 Delete type=2 #9
+2024/05/30-22:30:45.714 49f8 Manual compaction at level-1 from '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 451 : 1 .. (end); will stop at (end)

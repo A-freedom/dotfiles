@@ -1,0 +1,41 @@
+2024-06-12 15:07:13.786 [info] Log level: Info
+2024-06-12 15:07:13.786 [info] Validating found git in: "git"
+2024-06-12 15:07:13.786 [info] Using git "2.43.0" from "git"
+2024-06-12 15:07:13.786 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-12 15:07:13.786 [info] > git rev-parse --git-dir --git-common-dir [98ms]
+2024-06-12 15:07:13.792 [info] Open repository: /home/max/obsidian
+2024-06-12 15:07:13.852 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-12 15:07:13.853 [info] > git config --get commit.template [10ms]
+2024-06-12 15:07:13.873 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-12 15:07:13.881 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-06-12 15:07:13.882 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-12 15:07:13.915 [info] > git status -z -uall [5ms]
+2024-06-12 15:07:13.930 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2024-06-12 15:07:13.944 [info] > git config --get commit.template [14ms]
+2024-06-12 15:07:13.944 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [10ms]
+2024-06-12 15:07:13.954 [info] > git diff --name-status -z --diff-filter=ADMR a36985a08a405fcb139feda872d109886c640906...refs/remotes/origin/master [5ms]
+2024-06-12 15:07:13.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-06-12 15:07:13.969 [info] > git status -z -uall [2ms]
+2024-06-12 15:07:14.299 [info] > git check-ignore -v -z --stdin [1ms]
+2024-06-12 15:07:14.638 [info] > git fetch [846ms]
+2024-06-12 15:07:14.638 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/A-freedom/obsidian.git/'
+2024-06-12 15:07:14.647 [info] > git config --get commit.template [4ms]
+2024-06-12 15:07:14.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-06-12 15:07:14.652 [info] > git status -z -uall [1ms]
+2024-06-12 15:07:14.883 [info] > git merge-base refs/heads/master refs/remotes/origin/master [2ms]
+2024-06-12 15:07:14.888 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [1ms]
+2024-06-12 15:07:28.125 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2024-06-12 15:07:35.883 [info] > git pull --tags origin master [7755ms]
+2024-06-12 15:07:35.883 [info] From https://github.com/A-freedom/obsidian
+ * branch            master     -> FETCH_HEAD
+2024-06-12 15:07:35.892 [info] > git config --get commit.template [5ms]
+2024-06-12 15:07:35.893 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-06-12 15:07:35.898 [info] > git status -z -uall [2ms]
+2024-06-12 15:07:36.965 [info] > git config --get commit.template [4ms]
+2024-06-12 15:07:36.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-06-12 15:07:36.971 [info] > git status -z -uall [2ms]

@@ -1,0 +1,21 @@
+2024/07/03-22:44:11.961 ac7 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/07/03-22:44:11.961 ac7 Recovering log #248
+2024/07/03-22:44:11.962 ac7 Reusing old log /home/max/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000248.log 
+2024/07/03-23:00:10.214 a7f Level-0 table #252: started
+2024/07/03-23:00:10.218 a7f Level-0 table #252: 883823 bytes OK
+2024/07/03-23:00:10.219 a7f Delete type=0 #248
+2024/07/05-00:49:31.563 a7f Level-0 table #254: started
+2024/07/05-00:49:31.568 a7f Level-0 table #254: 862068 bytes OK
+2024/07/05-00:49:31.571 a7f Delete type=0 #251
+2024/07/05-00:49:31.571 a7f Compacting 4@0 + 1@1 files
+2024/07/05-00:49:31.580 a7f Generated table #255@0: 5 keys, 856703 bytes
+2024/07/05-00:49:31.580 a7f Compacted 4@0 + 1@1 files => 856703 bytes
+2024/07/05-00:49:31.581 a7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/05-00:49:31.582 a7f Delete type=2 #254
+2024/07/05-00:49:31.582 a7f Delete type=2 #249
+2024/07/05-00:49:31.582 a7f Delete type=2 #244
+2024/07/05-00:49:31.582 a7f Delete type=2 #252
+2024/07/05-00:49:31.582 a7f Delete type=2 #247
+2024/07/06-20:46:41.512 a8f0 Level-0 table #257: started
+2024/07/06-20:46:41.516 a8f0 Level-0 table #257: 855100 bytes OK
+2024/07/06-20:46:41.517 a8f0 Delete type=0 #253

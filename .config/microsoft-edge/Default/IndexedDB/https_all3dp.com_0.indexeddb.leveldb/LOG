@@ -1,0 +1,6 @@
+2024/06/12-04:21:07.835 990f Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_all3dp.com_0.indexeddb.leveldb since it was missing.
+2024/06/12-04:21:07.838 990f Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_all3dp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-05:11:18.982 9910 Level-0 table #5: started
+2024/06/12-05:11:18.984 9910 Level-0 table #5: 7856 bytes OK
+2024/06/12-05:11:18.985 9910 Delete type=0 #3
+2024/06/12-05:11:18.986 9910 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,178 @@
+2024-05-01T19:18:50.395Z 0: 
+
+----------------------------------------------
+2024-05-01T19:18:50.406Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-01T19:18:50.410Z 2: ✅ webContents.created web1 ""
+2024-05-01T19:18:50.415Z 3: ✅ window.created win1 "discord"
+2024-05-01T19:18:50.702Z 4: ✅ webContents.did-finish-load web1
+2024-05-01T19:19:07.868Z 5: ✅ webContents.created web2 ""
+2024-05-01T19:19:07.879Z 6: ✅ window.created win2 "Discord"
+2024-05-01T19:19:18.115Z 7: ✅ webContents.did-finish-load web2
+2024-05-01T19:19:18.215Z 8: window.close win1
+2024-05-01T19:19:18.242Z 9: webContents.destroyed web1
+2024-05-01T19:19:18.244Z 10: window.closed win1
+2024-05-01T23:08:34.294Z 11: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+2024-05-01T23:08:34.301Z 12: before-quit
+2024-05-01T23:08:34.302Z 13: window.close win2
+2024-05-01T23:08:34.853Z 14: webContents.destroyed web2
+2024-05-01T23:08:35.001Z 15: window.closed win2
+2024-05-03T04:48:28.148Z 0: 
+
+----------------------------------------------
+2024-05-03T04:48:28.157Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-03T04:48:28.165Z 2: ✅ webContents.created web1 ""
+2024-05-03T04:48:28.168Z 3: ✅ window.created win1 "discord"
+2024-05-03T04:48:28.484Z 4: ✅ webContents.did-finish-load web1
+2024-05-03T04:48:29.006Z 5: ✅ webContents.created web2 ""
+2024-05-03T04:48:29.033Z 6: ✅ window.created win2 "Discord"
+2024-05-03T04:48:31.881Z 7: ✅ webContents.did-finish-load web2
+2024-05-03T04:48:31.981Z 8: window.close win1
+2024-05-03T04:48:31.992Z 9: webContents.destroyed web1
+2024-05-03T04:48:31.994Z 10: window.closed win1
+2024-05-03T05:10:06.357Z 11: window.close win2
+2024-05-03T05:25:30.573Z 0: 
+
+----------------------------------------------
+2024-05-03T05:25:30.587Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-03T18:45:27.119Z 12: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+2024-05-03T18:45:27.140Z 13: before-quit
+2024-05-03T18:45:27.145Z 14: window.close win2
+2024-05-03T18:45:27.490Z 15: webContents.destroyed web2
+2024-05-04T03:17:54.715Z 0: 
+
+----------------------------------------------
+2024-05-04T03:17:54.727Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-04T03:17:54.738Z 2: ✅ webContents.created web1 ""
+2024-05-04T03:17:54.740Z 3: ✅ window.created win1 "discord"
+2024-05-04T03:17:55.005Z 4: ✅ webContents.did-finish-load web1
+2024-05-04T03:17:55.775Z 5: ✅ webContents.created web2 ""
+2024-05-04T03:17:55.788Z 6: ✅ window.created win2 "Discord"
+2024-05-04T03:17:57.436Z 7: window.close win2
+2024-05-04T03:17:59.371Z 8: ✅ webContents.did-finish-load web2
+2024-05-04T03:17:59.470Z 9: window.close win1
+2024-05-04T03:17:59.513Z 10: webContents.destroyed web1
+2024-05-04T03:17:59.514Z 11: window.closed win1
+2024-05-04T03:18:01.886Z 12: window.close win2
+2024-05-04T03:30:22.196Z 0: 
+
+----------------------------------------------
+2024-05-04T03:30:22.201Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-04T03:30:26.177Z 13: window.close win2
+2024-05-04T03:31:58.282Z 0: 
+
+----------------------------------------------
+2024-05-04T03:31:58.287Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-04T03:32:00.040Z 14: window.close win2
+2024-05-04T04:25:36.287Z 0: 
+
+----------------------------------------------
+2024-05-04T04:25:36.293Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-04T13:24:09.137Z 15: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+2024-05-04T13:24:09.150Z 16: before-quit
+2024-05-04T13:24:09.151Z 17: window.close win2
+2024-05-04T13:24:09.349Z 18: webContents.destroyed web2
+2024-05-04T19:05:53.895Z 0: 
+
+----------------------------------------------
+2024-05-04T19:05:53.904Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-04T19:05:53.913Z 2: ✅ webContents.created web1 ""
+2024-05-04T19:05:53.914Z 3: ✅ window.created win1 "discord"
+2024-05-04T19:05:54.217Z 4: ✅ webContents.did-finish-load web1
+2024-05-04T19:05:55.050Z 5: ✅ webContents.created web2 ""
+2024-05-04T19:05:55.053Z 6: ✅ window.created win2 "Discord"
+2024-05-04T19:05:57.032Z 7: ✅ webContents.did-finish-load web2
+2024-05-04T19:05:57.133Z 8: window.close win1
+2024-05-04T19:05:57.157Z 9: webContents.destroyed web1
+2024-05-04T19:05:57.159Z 10: window.closed win1
+2024-05-05T01:32:46.630Z 11: window.close win2
+2024-05-05T01:35:27.779Z 0: 
+
+----------------------------------------------
+2024-05-05T01:35:27.787Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-05T01:44:27.065Z 12: ❌ child-process-gone {
+  type: 'GPU',
+  reason: 'abnormal-exit',
+  exitCode: 8704,
+  serviceName: 'GPU'
+}
+2024-05-05T01:44:27.070Z 13: before-quit
+2024-05-05T01:44:27.071Z 14: window.close win2
+2024-05-05T01:44:27.730Z 15: webContents.destroyed web2
+2024-05-05T08:16:34.058Z 0: 
+
+----------------------------------------------
+2024-05-05T08:16:34.068Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-05T08:16:34.078Z 2: ✅ webContents.created web1 ""
+2024-05-05T08:16:34.080Z 3: ✅ window.created win1 "discord"
+2024-05-05T08:16:34.370Z 4: ✅ webContents.did-finish-load web1
+2024-05-05T08:16:35.192Z 5: ✅ webContents.created web2 ""
+2024-05-05T08:16:35.197Z 6: ✅ window.created win2 "Discord"
+2024-05-05T08:16:37.119Z 7: ✅ webContents.did-finish-load web2
+2024-05-05T08:16:37.220Z 8: window.close win1
+2024-05-05T08:16:37.233Z 9: webContents.destroyed web1
+2024-05-05T08:16:37.234Z 10: window.closed win1
+2024-05-05T08:23:29.513Z 11: window.close win2
+2024-05-05T09:09:06.127Z 12: webContents.destroyed web2
+2024-05-06T03:03:05.877Z 0: 
+
+----------------------------------------------
+2024-05-06T03:03:05.888Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-06T03:03:05.900Z 2: ✅ webContents.created web1 ""
+2024-05-06T03:03:05.901Z 3: ✅ window.created win1 "discord"
+2024-05-06T03:03:06.237Z 4: ✅ webContents.did-finish-load web1
+2024-05-06T03:03:07.401Z 5: ✅ webContents.created web2 ""
+2024-05-06T03:03:07.406Z 6: ✅ window.created win2 "Discord"
+2024-05-06T03:03:09.248Z 7: ✅ webContents.did-finish-load web2
+2024-05-06T03:03:09.348Z 8: window.close win1
+2024-05-06T03:03:09.376Z 9: webContents.destroyed web1
+2024-05-06T03:03:09.378Z 10: window.closed win1
+2024-05-06T03:30:47.071Z 11: window.close win2
+2024-05-06T04:49:31.248Z 0: 
+
+----------------------------------------------
+2024-05-06T04:49:31.258Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-06T04:49:31.267Z 2: ✅ webContents.created web1 ""
+2024-05-06T04:49:31.268Z 3: ✅ window.created win1 "discord"
+2024-05-06T04:49:31.548Z 4: ✅ webContents.did-finish-load web1
+2024-05-06T04:49:32.413Z 5: ✅ webContents.created web2 ""
+2024-05-06T04:49:32.417Z 6: ✅ window.created win2 "Discord"
+2024-05-06T04:49:36.015Z 7: ✅ webContents.did-finish-load web2
+2024-05-06T04:49:36.115Z 8: window.close win1
+2024-05-06T04:49:36.134Z 9: webContents.destroyed web1
+2024-05-06T04:49:36.135Z 10: window.closed win1
+2024-05-06T04:49:49.404Z 11: window.close win2
+2024-05-06T04:53:18.929Z 12: before-quit
+2024-05-06T04:53:18.942Z 13: window.close win2
+2024-05-06T04:53:56.496Z 0: 
+
+----------------------------------------------
+2024-05-06T04:53:56.515Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/max/.config/discord/0.0.52/modules
+2024-05-06T04:53:56.517Z 2: ✅ webContents.created web1 ""
+2024-05-06T04:53:56.518Z 3: ✅ window.created win1 "discord"
+2024-05-06T04:53:56.827Z 4: ✅ webContents.did-finish-load web1
+2024-05-06T04:53:57.282Z 5: ✅ webContents.created web2 ""
+2024-05-06T04:53:57.293Z 6: ✅ window.created win2 "Discord"
+2024-05-06T04:53:59.302Z 7: ✅ webContents.did-finish-load web2
+2024-05-06T04:53:59.402Z 8: window.close win1
+2024-05-06T04:53:59.439Z 9: webContents.destroyed web1
+2024-05-06T04:53:59.441Z 10: window.closed win1
+2024-05-06T04:54:09.349Z 11: window.close win2
+2024-05-06T04:54:48.366Z 0: 
+
+----------------------------------------------
+2024-05-06T04:54:51.059Z 12: window.close win2

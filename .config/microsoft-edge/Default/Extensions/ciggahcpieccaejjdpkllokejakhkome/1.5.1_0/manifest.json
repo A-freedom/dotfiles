@@ -1,0 +1,24 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "injectColor.js" ],
+      "matches": [ "https://script.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Provides folders display and a dark color theme to the google apps script editor.",
+   "differential_fingerprint": "1.686ae1d80251e67b3f157a64582ed0deae98857a6c8055fd6b789cf8ae1ae047",
+   "host_permissions": [ "https://script.google.com/*" ],
+   "icons": {
+      "128": "AppScriptColor-128.png",
+      "16": "AppScriptColor-16.png",
+      "48": "AppScriptColor-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0PuO1V87ih82EogU/GubAb4hfhBZnNKymzf3GhFnatMqejWjd+hEqu1mp9siy/qfVeHylZ9xzeNPjeKrj3wgd5Kn63nKT//WFcUn4mNDxnVb7YjnNgTH070XrDMtj3jbHob3g01Rwaqhtk56+ZvSlGaHoqcg9Y+DNUQTgb90gL2N4XRiGHIaIUa77jq6R471bgeDnWClxnEpvpgdN4bu6SgSpEoiafhpVli+tebxuwUqwOFnroKJQserLctEM8+nW4bMh3hcHDIjWt53jdJvBTFAuHnwwMurW8nXIUJ3XnIyRNR7f45oKK/WuBimSCdLOkyfZgO2Arbw7tKMGMwoQIDAQAB",
+   "manifest_version": 3,
+   "name": "AppsScript Color",
+   "permissions": [ "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.1"
+}

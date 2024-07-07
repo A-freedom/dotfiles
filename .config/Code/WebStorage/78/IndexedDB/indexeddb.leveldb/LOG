@@ -1,0 +1,6 @@
+2024/05/31-03:29:31.567 1a0607 Creating DB /home/max/.config/Code/WebStorage/78/IndexedDB/indexeddb.leveldb since it was missing.
+2024/05/31-03:29:31.580 1a0607 Reusing MANIFEST /home/max/.config/Code/WebStorage/78/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/05/31-06:22:55.818 1a0608 Level-0 table #5: started
+2024/05/31-06:22:55.820 1a0608 Level-0 table #5: 1937 bytes OK
+2024/05/31-06:22:55.821 1a0608 Delete type=0 #3
+2024/05/31-06:22:55.821 1a0608 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

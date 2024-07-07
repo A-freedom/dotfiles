@@ -1,0 +1,15 @@
+2024/06/27-19:53:19.394 a56 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-19:53:19.394 a56 Recovering log #4
+2024/06/27-19:53:19.394 a56 Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2024/06/27-19:53:53.864 a55 Level-0 table #8: started
+2024/06/27-19:53:53.866 a55 Level-0 table #8: 5886 bytes OK
+2024/06/27-19:53:53.868 a55 Delete type=0 #4
+2024/06/27-19:53:53.868 a55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/27-19:53:53.868 a55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01D\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00u\x00/\x002\x00/\x00_\x00/\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00r\x00t\x00c\x00.\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00.\x00e\x00n\x00_\x00G\x00B\x00.\x00O\x00A\x00b\x00D\x00q\x000\x00F\x002\x00-\x00A\x000\x00.\x002\x000\x002\x000\x00.\x00O' @ 63 : 1
+2024/06/27-19:53:53.868 a55 Compacting 1@1 + 1@2 files
+2024/06/27-19:53:53.870 a55 Generated table #9@1: 23 keys, 4062 bytes
+2024/06/27-19:53:53.870 a55 Compacted 1@1 + 1@2 files => 4062 bytes
+2024/06/27-19:53:53.871 a55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/27-19:53:53.871 a55 Delete type=2 #5
+2024/06/27-19:53:53.871 a55 Delete type=2 #8
+2024/06/27-19:53:53.872 a55 Manual compaction at level-1 from '\x00\x01\x01\x02\x01D\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00u\x00/\x002\x00/\x00_\x00/\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00r\x00t\x00c\x00.\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00.\x00e\x00n\x00_\x00G\x00B\x00.\x00O\x00A\x00b\x00D\x00q\x000\x00F\x002\x00-\x00A\x000\x00.\x002\x000\x002\x000\x00.\x00O' @ 63 : 1 .. (end); will stop at (end)

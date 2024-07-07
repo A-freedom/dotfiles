@@ -1,0 +1,574 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="SteelCon-Predictive-Engine" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_server/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2542">
+              <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/filtering.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="868">
+              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATA/3208 R_CFST_NM_AISC.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" lean-forward="true" selection-start-column="39" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1148">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/design-tables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1510">
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/data_preprocessor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3004">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/keras/src/optimizers/adam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/prediction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1209">
+              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="4" lastUsed="1710373306515" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="5" lastUsed="1717071984409" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="67" lastUsed="1717092627355" />
+    </fileType>
+    <fileType name="Requirements.txt">
+      <summary usageCount="4" lastUsed="1710192463581" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="5" lastUsed="1717069489263" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find># min_val = min(np.min(y), np.min(y))
+    # max_val = max(np.max(y), np.max(y))</find>
+      <find>At</find>
+      <find>Pno</find>
+      <find>NAN</find>
+      <find>dont_use_factors</find>
+      <find>to_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/data_preprocessor.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/data_preprocessor.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/load_and_test.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/training.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/filtering.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/statics.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_Me/my_tools.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/my_model/AISC.py" />
+      <option value="$PROJECT_DIR$/requirements.txt" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/AISC.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/load_and_test.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/my_tools.py" />
+      <option value="$PROJECT_DIR$/web_client/lib/prediction_service.dart" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/__init__.py" />
+      <option value="$PROJECT_DIR$/web_server/app.py" />
+      <option value="$PROJECT_DIR$/model_work/R_CFST_NM/prediction.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="67" lastUsage="1717092627355" />
+    </language>
+    <language id="Requirements">
+      <summary usageCount="4" lastUsage="1710192463581" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="5" lastUsage="1717071984409" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="5" lastUsage="1717069489265" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/PycharmProjects/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/PycharmProjects/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/PycharmProjects/SteelCon-Predictive-Engine/DATA}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SteelCon-Predictive-Engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/PycharmProjects/SteelCon-Predictive-Engine}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/PycharmProjects/SteelCon-Predictive-Engine/model_work}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.app" />
+      <element setting="Python.load_and_test" />
+      <element setting="Python.AISC" />
+      <element setting="Python.statics" />
+      <element setting="Python.training" />
+      <element setting="Python.training (1)" />
+      <element setting="Python.visualize" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" id="Pull Requests" weight="0.2951172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2951172" />
+      <window_info id="Commit" order="1" weight="0.2951172" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.3298859" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298859" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.37482166" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32956204" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3298859" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.37482166" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.37482166" />
+      <window_info anchor="right" id="Notifications" order="0" show_stripe_button="false" weight="0.33007812" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <unified_weights bottom="0.32956204" left="0.2951172" right="0.33007812" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2951172" />
+      <window_info id="Commit" order="1" weight="0.3294922" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3298859" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3298859" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3298859" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3298859" left="0.2951172" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Pull Requests</value>
+      <value>Commit</value>
+      <value>Python Console</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="344" width="1572" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1710372067447">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="698" y="344" width="1572" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.2560.1402@0.38.2560.1402" timestamp="1710372067447" />
+    <state x="909" y="501" width="721" height="491" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1709821875713">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="909" y="501" width="721" height="491" key="#com.intellij.fileTypes.FileTypeChooser/0.38.2560.1402@0.38.2560.1402" timestamp="1709821875713" />
+    <state x="1214" y="380" width="530" height="730" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1710371997581">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="1214" y="380" width="530" height="730" key="#com.intellij.ide.macro.MacrosDialog/0.38.2560.1402@0.38.2560.1402" timestamp="1710371997581" />
+    <state width="2508" height="472" key="GridCell.Tab.0.bottom" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.0.bottom/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.0.center" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.0.center/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.0.left" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.0.left/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.0.right" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.0.right/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.1.bottom" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.1.bottom/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.1.center" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.1.center/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.1.left" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.1.left/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state width="2508" height="472" key="GridCell.Tab.1.right" timestamp="1710373787571">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2508" height="472" key="GridCell.Tab.1.right/0.38.2560.1402@0.38.2560.1402" timestamp="1710373787571" />
+    <state x="659" y="286" width="1241" height="912" key="SettingsEditor" timestamp="1709822824691">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="659" y="286" width="1241" height="912" key="SettingsEditor/0.38.2560.1402@0.38.2560.1402" timestamp="1709822824691" />
+    <state x="775" y="412" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1710373215075">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="775" y="412" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.38.2560.1402@0.38.2560.1402" timestamp="1710373215075" />
+    <state x="859" y="338" width="852" height="1074" key="search.everywhere.popup" timestamp="1711059764407">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="859" y="338" width="852" height="1074" key="search.everywhere.popup/0.38.2560.1402@0.38.2560.1402" timestamp="1711059764407" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/model_work/visualize.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/keras/src/saving/saving_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2128">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/load_and_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="872" selection-start-line="872" selection-end-line="872" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/data_preprocessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-877">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/statics_analysis/describe_R_CFST_Me.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/statics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/filtering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#4#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_Me/my_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1067">
+          <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/R_CFST_Me.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/sklearn/metrics/_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="413" column="4" selection-start-line="413" selection-start-column="4" selection-end-line="413" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="3673" column="4" selection-start-line="3673" selection-start-column="4" selection-end-line="3673" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="13" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="854" selection-start-line="854" selection-end-line="854" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6295" selection-start-line="6295" selection-end-line="6295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/load_and_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_client/lib/prediction_service.dart" />
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/my_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3498">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/model_work/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/web_server/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2542">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/3208 R_CFST_NM_AISC.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/filtering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/keras/src/optimizers/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/design-tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1510">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/data_preprocessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3004">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_work/R_CFST_NM/prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1209">
+          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

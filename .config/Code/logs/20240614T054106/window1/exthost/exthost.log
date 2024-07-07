@@ -1,0 +1,25 @@
+2024-06-14 05:41:07.771 [info] Extension host with pid 113432 started
+2024-06-14 05:41:07.771 [info] Skipping acquiring lock for /home/max/.config/Code/User/workspaceStorage/65eb5db92c962e3259b6976e98ea0a01.
+2024-06-14 05:41:07.907 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-14 05:41:07.915 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2024-06-14 05:41:07.953 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-14 05:41:08.014 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-14 05:41:08.109 [info] Eager extensions activated
+2024-06-14 05:41:08.131 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.133 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.148 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.171 [info] ExtensionService#_doActivateExtension meronz.manpages, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.174 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.242 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:41:08.422 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-14 05:41:08.483 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-14 05:41:15.593 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-06-14 05:41:15.599 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-06-14 05:41:17.934 [warning] Provider for scheme 'man' is firing event for schema 'git' which will be IGNORED
+2024-06-14 05:42:10.031 [warning] Provider for scheme 'man' is firing event for schema 'git' which will be IGNORED
+2024-06-14 05:42:40.976 [warning] Provider for scheme 'man' is firing event for schema 'output' which will be IGNORED
+2024-06-14 05:42:45.844 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-06-14 05:44:15.237 [warning] Provider for scheme 'man' is firing event for schema 'file' which will be IGNORED
+2024-06-14 05:53:02.107 [warning] Provider for scheme 'man' is firing event for schema 'vscode-scm' which will be IGNORED
+2024-06-14 05:53:07.690 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-14 05:53:07.727 [info] Extension host with pid 113432 exiting with code 0

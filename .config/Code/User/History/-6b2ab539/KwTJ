@@ -1,0 +1,15 @@
+
+Partitioning the data, implementing structural changes to the code, and integrating plotting and file-saving utilities to enhance workflow efficiency.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch 0.1
+# Changes to be committed:
+#	modified:   __pycache__/my_data.cpython-310.pyc
+#	modified:   my_model/best_model.h5
+#	modified:   my_model/fingerprint.pb
+#	modified:   my_model/keras_metadata.pb
+#	modified:   my_model/saved_model.pb
+#	modified:   my_model/variables/variables.data-00000-of-00001
+#	modified:   my_model/variables/variables.index
+#

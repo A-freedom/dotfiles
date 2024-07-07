@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.2560.1440@120dpi" x="881" y="171" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440@120dpi" width="2458" height="399" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440@120dpi" width="2458" height="399" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440@120dpi" width="2458" height="399" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440@120dpi" width="2458" height="399" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440@120dpi" width="2458" height="443" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440@120dpi" width="2458" height="443" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440@120dpi" width="2458" height="443" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440@120dpi" width="2458" height="443" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2478" height="420" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2478" height="420" />
+    <size key="find.popup.0.0.2560.1440@120dpi" width="951" height="1221" />
+  </component>
+  <component name="WindowManager">
+    <frame x="580" y="221" width="1400" height="1000" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1010" y="332" width="530" height="605" key="FileChooserDialogImpl" timestamp="1717112970346">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1010" y="332" key="FileChooserDialogImpl/0.36.2560.1370" timestamp="1717112970346" />
+    <state x="1010" y="341" width="530" height="605" key="FileChooserDialogImpl/0.38.2560.1402" timestamp="1709667025987" />
+    <state width="567" height="197" key="ShowUsagesActions.dimensionServiceKey" timestamp="1717192892961">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state width="567" height="197" key="ShowUsagesActions.dimensionServiceKey/0.36.2560.1370" timestamp="1717192892961" />
+    <state width="900" height="197" key="ShowUsagesActions.dimensionServiceKey/0.38.2560.1402" timestamp="1710368163745" />
+    <state x="1280" y="627" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1718141506786">
+      <screen x="0" y="36" width="2560" height="1370" />
+    </state>
+    <state x="1280" y="627" width="1000" height="813" key="WELCOME_SCREEN/0.36.2560.1370" timestamp="1718141506786" />
+  </component>
+</application>

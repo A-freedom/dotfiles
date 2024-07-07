@@ -1,0 +1,29 @@
+2024/05/24-20:47:21.486 421e Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/24-20:47:21.486 421e Recovering log #291
+2024/05/24-20:47:21.489 421e Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/000291.log 
+2024/05/24-20:47:34.242 421c Level-0 table #296: started
+2024/05/24-20:47:34.254 421c Level-0 table #296: 96772 bytes OK
+2024/05/24-20:47:34.256 421c Delete type=0 #291
+2024/05/24-20:47:34.256 421c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/24-20:47:34.256 421c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x05\x00F\x00I\x00L\x00E\x00S' @ 1099959 : 1
+2024/05/24-20:47:34.256 421c Compacting 1@1 + 8@2 files
+2024/05/24-20:47:34.283 421c Generated table #297@1: 7210 keys, 2171792 bytes
+2024/05/24-20:47:34.308 421c Generated table #298@1: 7880 keys, 2168788 bytes
+2024/05/24-20:47:34.329 421c Generated table #299@1: 8071 keys, 2169349 bytes
+2024/05/24-20:47:34.347 421c Generated table #300@1: 7304 keys, 2171459 bytes
+2024/05/24-20:47:34.365 421c Generated table #301@1: 8197 keys, 2171606 bytes
+2024/05/24-20:47:34.385 421c Generated table #302@1: 8673 keys, 2167974 bytes
+2024/05/24-20:47:34.409 421c Generated table #303@1: 24085 keys, 2195609 bytes
+2024/05/24-20:47:34.433 421c Generated table #304@1: 37171 keys, 1433439 bytes
+2024/05/24-20:47:34.433 421c Compacted 1@1 + 8@2 files => 16650016 bytes
+2024/05/24-20:47:34.434 421c compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/05/24-20:47:34.434 421c Delete type=2 #293
+2024/05/24-20:47:34.435 421c Delete type=2 #280
+2024/05/24-20:47:34.435 421c Delete type=2 #281
+2024/05/24-20:47:34.435 421c Delete type=2 #282
+2024/05/24-20:47:34.435 421c Delete type=2 #296
+2024/05/24-20:47:34.435 421c Delete type=2 #279
+2024/05/24-20:47:34.435 421c Delete type=2 #285
+2024/05/24-20:47:34.435 421c Delete type=2 #284
+2024/05/24-20:47:34.435 421c Delete type=2 #283
+2024/05/24-20:47:34.436 421c Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x05\x00F\x00I\x00L\x00E\x00S' @ 1099959 : 1 .. (end); will stop at (end)

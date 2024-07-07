@@ -1,0 +1,15 @@
+2024/06/30-20:40:27.397 a6e Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/30-20:40:27.398 a6e Recovering log #35
+2024/06/30-20:40:27.398 a6e Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000035.log 
+2024/06/30-20:55:40.243 a5e Level-0 table #40: started
+2024/06/30-20:55:40.244 a5e Level-0 table #40: 209 bytes OK
+2024/06/30-20:55:40.246 a5e Delete type=0 #35
+2024/06/30-20:55:40.246 a5e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/30-20:55:40.246 a5e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 12774 : 1
+2024/06/30-20:55:40.246 a5e Compacting 1@1 + 1@2 files
+2024/06/30-20:55:40.249 a5e Generated table #41@1: 290 keys, 107796 bytes
+2024/06/30-20:55:40.249 a5e Compacted 1@1 + 1@2 files => 107796 bytes
+2024/06/30-20:55:40.250 a5e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/30-20:55:40.250 a5e Delete type=2 #37
+2024/06/30-20:55:40.250 a5e Delete type=2 #40
+2024/06/30-20:55:40.250 a5e Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 12774 : 1 .. (end); will stop at (end)

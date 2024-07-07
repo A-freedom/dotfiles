@@ -1,0 +1,12 @@
+ready for presentation
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   __pycache__/my_data.cpython-310.pyc
+#	modified:   __pycache__/my_tools.cpython-310.pyc
+#	modified:   my_tools.py
+#

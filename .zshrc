@@ -110,3 +110,24 @@ alias system_update="sudo apt update && sudo apt upgrade -y && sudo flatpak upda
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+force_copy() {
+    if [ "$#" -ne 2 ]; then
+        echo "Usage: force_copy <source_directory> <destination_directory>"
+        return 1
+    fi
+
+    local SRC_DIR="$1"
+    local DEST_DIR="$2"
+
+    mkdir -p "$DEST_DIR"
+
+    cp -r "$SRC_DIR/"* "$DEST_DIR/"
+
+    if [ $? -eq 0 ]; then
+        echo "Files copied successfully."
+    else
+        echo "Failed to copy files."
+    fi
+}
+alias fcp=force_copy

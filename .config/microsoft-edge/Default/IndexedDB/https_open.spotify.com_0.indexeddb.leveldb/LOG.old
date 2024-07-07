@@ -1,0 +1,12 @@
+2024/05/17-23:12:45.702 7c43 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-23:12:45.702 7c43 Recovering log #105
+2024/05/17-23:12:45.703 7c43 Reusing old log /home/max/.config/microsoft-edge/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000105.log 
+2024/05/19-01:41:37.163 7c45 Level-0 table #110: started
+2024/05/19-01:41:37.175 7c45 Level-0 table #110: 1066314 bytes OK
+2024/05/19-01:41:37.184 7c45 Delete type=0 #105
+2024/05/19-01:44:45.897 7c44 Compacting 1@1 + 1@2 files
+2024/05/19-01:44:45.914 7c44 Generated table #111@1: 3804 keys, 354138 bytes
+2024/05/19-01:44:45.915 7c44 Compacted 1@1 + 1@2 files => 354138 bytes
+2024/05/19-01:44:45.916 7c44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/19-01:44:45.916 7c44 Delete type=2 #107
+2024/05/19-01:44:45.916 7c44 Delete type=2 #110

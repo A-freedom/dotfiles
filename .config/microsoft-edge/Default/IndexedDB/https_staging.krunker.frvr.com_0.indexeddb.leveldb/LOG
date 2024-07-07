@@ -1,0 +1,6 @@
+2024/06/10-17:27:50.732 2830 Creating DB /home/max/.config/microsoft-edge/Default/IndexedDB/https_staging.krunker.frvr.com_0.indexeddb.leveldb since it was missing.
+2024/06/10-17:27:50.736 2830 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/IndexedDB/https_staging.krunker.frvr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/10-17:31:41.643 2831 Level-0 table #5: started
+2024/06/10-17:31:41.652 2831 Level-0 table #5: 860 bytes OK
+2024/06/10-17:31:41.654 2831 Delete type=0 #3
+2024/06/10-17:31:41.654 2831 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

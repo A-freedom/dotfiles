@@ -1,0 +1,264 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="NewFile" />
+    </ids>
+  </component>
+  <component name="GradleJvmSupportMatrix">
+    <option name="compatibility">
+      <list>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="INF-5.0" />
+          <option name="javaVersionInfo" value="6-8" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="INF-INF" />
+          <option name="javaVersionInfo" value="8-9" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="4.3-INF" />
+          <option name="javaVersionInfo" value="9-10" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="4.7-INF" />
+          <option name="javaVersionInfo" value="10-11" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="5.0-INF" />
+          <option name="javaVersionInfo" value="11-12" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="5.4-INF" />
+          <option name="javaVersionInfo" value="12-13" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.0-INF" />
+          <option name="javaVersionInfo" value="13-14" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.3-INF" />
+          <option name="javaVersionInfo" value="14-15" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.7-INF" />
+          <option name="javaVersionInfo" value="15-16" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.0-INF" />
+          <option name="javaVersionInfo" value="16-17" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.2-INF" />
+          <option name="javaVersionInfo" value="17-18" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.5-INF" />
+          <option name="javaVersionInfo" value="18-19" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.6-INF" />
+          <option name="javaVersionInfo" value="19-20" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="8.3-INF" />
+          <option name="javaVersionInfo" value="20-21" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="8.5-INF" />
+          <option name="javaVersionInfo" value="21-22" />
+        </VersionMapping>
+      </list>
+    </option>
+    <option name="default" value="false" />
+    <option name="ideVersion" value="2023.3.4" />
+    <option name="lastUpdateTime" value="1716834124377" />
+    <option name="supportedGradleVersions">
+      <list>
+        <option value="3.0" />
+        <option value="3.1" />
+        <option value="3.2" />
+        <option value="3.3" />
+        <option value="3.4" />
+        <option value="3.5" />
+        <option value="4.0" />
+        <option value="4.1" />
+        <option value="4.2" />
+        <option value="4.3" />
+        <option value="4.4" />
+        <option value="4.5" />
+        <option value="4.5.1" />
+        <option value="4.6" />
+        <option value="4.7" />
+        <option value="4.8" />
+        <option value="4.9" />
+        <option value="4.10" />
+        <option value="4.10.3" />
+        <option value="5.0" />
+        <option value="5.1" />
+        <option value="5.2" />
+        <option value="5.3" />
+        <option value="5.3.1" />
+        <option value="5.4" />
+        <option value="5.4.1" />
+        <option value="5.5" />
+        <option value="5.5.1" />
+        <option value="5.6" />
+        <option value="5.6.2" />
+        <option value="6.0" />
+        <option value="6.0.1" />
+        <option value="6.1" />
+        <option value="6.2" />
+        <option value="6.3" />
+        <option value="6.4" />
+        <option value="6.5" />
+        <option value="6.6" />
+        <option value="6.7" />
+        <option value="6.8" />
+        <option value="6.8.3" />
+        <option value="6.9" />
+        <option value="7.0" />
+        <option value="7.1" />
+        <option value="7.2" />
+        <option value="7.3" />
+        <option value="7.4" />
+        <option value="7.5" />
+        <option value="7.5.1" />
+        <option value="7.6" />
+        <option value="8.0" />
+        <option value="8.1" />
+        <option value="8.2" />
+        <option value="8.3" />
+        <option value="8.4" />
+        <option value="8.5" />
+        <option value="8.6" />
+        <option value="8.7" />
+      </list>
+    </option>
+    <option name="supportedJavaVersions">
+      <list>
+        <option value="8" />
+        <option value="9" />
+        <option value="10" />
+        <option value="11" />
+        <option value="12" />
+        <option value="13" />
+        <option value="14" />
+        <option value="15" />
+        <option value="16" />
+        <option value="17" />
+        <option value="18" />
+        <option value="19" />
+        <option value="20" />
+        <option value="21" />
+      </list>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="16.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ColorChooser.RecentColors": "213-129-105-255,,,102-80-160-255",
+    "DART_PROJECT_TEMPLATE": "CLI Application",
+    "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1712877191170",
+    "FLUTTER_LAST_SURVEY_PROMPT_KEY": "1710350494628",
+    "FindSplitterProportion": "0.33015743",
+    "InstalledPluginsSearchHistory": "vim",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "MarketplacePluginsSearchHistory": "vim\nflutter\nflut\nfluter\nfl",
+    "Notification.DisplayName-DoNotAsk-deeplink": "deeplink",
+    "Notification.DoNotAsk-deeplink": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SettingsSearchHistory": "vim\nfont",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bidi.content.notification.disable": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-233.14475.28",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "233.14475.28",
+    "file.gist.reindex.count": "159",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "16.25",
+    "fontSizeToResetEditor": "16.25",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-233.14475.28",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1712338526951",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "233.14475.28-IJ",
+    "io.flutter.analytics.clientId": "4563aa2e-8109-4d4c-974b-515afbd2a103",
+    "io.flutter.analytics.toastShown": "true",
+    "io.flutter.console.preferencesSet": "true",
+    "last_opened_file_path": "/home/max/PycharmProjects/SteelCon-Predictive-Engine/web_client",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-233.14475.28"
+  },
+  "keyToStringList": {
+    "DART_SDK_KNOWN_PATHS": [
+      "/home/max/snap/flutter/common/flutter/bin/cache/dart-sdk"
+    ],
+    "FLUTTER_SDK_KNOWN_PATHS": [
+      "/home/max/snap/flutter/common/flutter",
+      "/snap"
+    ],
+    "file.chooser.recent.files": [
+      "/home/max/PycharmProjects/SteelCon-Predictive-Engine/web_client",
+      "/home/max/PycharmProjects/Graduation_Project",
+      "/home/max/IdeaProjects/untitled",
+      "/snap",
+      "/home/max/snap/flutter/common/flutter/bin",
+      "/snap/flutter",
+      "/snap/flutter/145/bin",
+      "/snap/flutter/current/bin",
+      "/snap/flutter/current",
+      "/snap/bin"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;IntroduceVariable&quot;: 1710793109267,
+    &quot;CtrlW&quot;: 1712409285644,
+    &quot;SpeedSearch&quot;: 1711796810166,
+    &quot;FocusProjectToolWindow&quot;: 1712706129657,
+    &quot;SearchEverywhere&quot;: 1709219328047,
+    &quot;EvaluateExpression&quot;: 1710793106801,
+    &quot;QuickSwitchScheme&quot;: 1710793108879,
+    &quot;FindReplaceToggle&quot;: 1710796076460,
+    &quot;ShowUsages&quot;: 1712337815890,
+    &quot;CtrlShiftI&quot;: 1711241858997,
+    &quot;OverrideImplementMethods&quot;: 1712871727170,
+    &quot;FindInPath&quot;: 1712844942743
+  },
+  &quot;proposedTips&quot;: {
+    &quot;CtrlW&quot;: 1712409285565,
+    &quot;SpeedSearch&quot;: 1711796810020,
+    &quot;FocusProjectToolWindow&quot;: 1712706129597,
+    &quot;SearchEverywhere&quot;: 1709219327958,
+    &quot;FindReplaceToggle&quot;: 1710796076452,
+    &quot;ShowUsages&quot;: 1712337815755,
+    &quot;OverrideImplementMethods&quot;: 1712871727107,
+    &quot;FindInPath&quot;: 1712844942653,
+    &quot;CtrlShiftI&quot;: 1711241858831
+  },
+  &quot;tipsOrderSeed&quot;: 1708679355003
+}</component>
+</application>

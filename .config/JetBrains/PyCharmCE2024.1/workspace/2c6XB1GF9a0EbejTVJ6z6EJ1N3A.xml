@@ -1,0 +1,363 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Graduation_Project" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="2" lastUsed="1707522823999" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1707432865168" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1707684503660" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="52" lastUsed="1708521927328" />
+    </fileType>
+    <fileType name="PythonStub">
+      <summary usageCount="1" lastUsed="1707588844800" />
+    </fileType>
+    <fileType name="VcsLog">
+      <summary usageCount="1" lastUsed="1707522757687" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2766</find>
+      <find>filter</find>
+      <find>des</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Compare.Branches.Bottom.Log.Properties">
+    <option name="TEXT_FILTER_SETTINGS">
+      <TextFilterSettings>
+        <option name="MATCH_CASE" value="true" />
+      </TextFilterSettings>
+    </option>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/dataProssing.py" />
+      <option value="$PROJECT_DIR$/get_mse.py" />
+      <option value="$PROJECT_DIR$/load_and_test.py" />
+      <option value="$PROJECT_DIR$/my_tools.py" />
+      <option value="$PROJECT_DIR$/Polynomial_reg.py" />
+      <option value="$PROJECT_DIR$/test.py" />
+      <option value="$PROJECT_DIR$/DATA/3208 R_CFST_NM.csv" />
+      <option value="$PROJECT_DIR$/filtering.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/my_data.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1707432865176" />
+    </language>
+    <language id="Python">
+      <summary usageCount="52" lastUsage="1708521927329" />
+    </language>
+    <language id="PythonStub">
+      <summary usageCount="1" lastUsage="1707588844800" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1707684503660" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Graduation_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/Desktop/Graduation_Project}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graduation_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/max/Desktop/Graduation_Project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/max/Desktop/Graduation_Project/DATA}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.get_mse" />
+      <element setting="Python.main" />
+      <element setting="Python.test" />
+      <element setting="Python.Polynomial_reg" />
+      <element setting="Python.load_and_test" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" weight="0.29472655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29472655" />
+      <window_info id="Commit" order="1" weight="0.29472655" />
+      <window_info id="VcsChanges" order="2" weight="0.18066406" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.29472655" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.40834522" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.40834522" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3298859" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.3298859" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3298859" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.40834522" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.40834522" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <unified_weights bottom="0.40834522" left="0.29472655" right="0.3298828" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Structure</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>VcsChanges</value>
+      <value>Python Console</value>
+      <value>Services</value>
+      <value>Python Packages</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="448" width="1763" height="589" key="#xdebugger.XInspectDialog" timestamp="1707455510478">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="393" y="448" width="1763" height="589" key="#xdebugger.XInspectDialog/0.38.2560.1402@0.38.2560.1402" timestamp="1707455510478" />
+    <state width="560" height="221" key="DebuggerActiveHint" timestamp="1707531538769">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="560" height="221" key="DebuggerActiveHint/0.38.2560.1402@0.38.2560.1402" timestamp="1707531538769" />
+    <state x="1010" y="440" width="530" height="605" key="FileChooserDialogImpl" timestamp="1707690837705">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="1010" y="440" width="530" height="605" key="FileChooserDialogImpl/0.38.2560.1402@0.38.2560.1402" timestamp="1707690837705" />
+    <state width="2458" height="519" key="GridCell.Tab.0.bottom" timestamp="1707670107901">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.0.bottom/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107901" />
+    <state width="2458" height="519" key="GridCell.Tab.0.center" timestamp="1707670107901">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.0.center/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107901" />
+    <state width="2458" height="519" key="GridCell.Tab.0.left" timestamp="1707670107901">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.0.left/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107901" />
+    <state width="2458" height="519" key="GridCell.Tab.0.right" timestamp="1707670107901">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.0.right/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107901" />
+    <state width="2458" height="519" key="GridCell.Tab.1.bottom" timestamp="1707670107895">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.1.bottom/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107895" />
+    <state width="2458" height="519" key="GridCell.Tab.1.center" timestamp="1707670107895">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.1.center/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107895" />
+    <state width="2458" height="519" key="GridCell.Tab.1.left" timestamp="1707670107895">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.1.left/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107895" />
+    <state width="2458" height="519" key="GridCell.Tab.1.right" timestamp="1707670107895">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="2458" height="519" key="GridCell.Tab.1.right/0.38.2560.1402@0.38.2560.1402" timestamp="1707670107895" />
+    <state x="0" y="1212" width="2558" height="175" key="ProcessPopupWindow" timestamp="1707442345555">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="0" y="1212" width="2558" height="175" key="ProcessPopupWindow/0.38.2560.1402@0.38.2560.1402" timestamp="1707442345555" />
+    <state x="652" y="286" width="1256" height="912" key="SettingsEditor" timestamp="1707524742112">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="652" y="286" width="1256" height="912" key="SettingsEditor/0.38.2560.1402@0.38.2560.1402" timestamp="1707524742112" />
+    <state x="775" y="412" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1707436154252">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="775" y="412" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.38.2560.1402@0.38.2560.1402" timestamp="1707436154252" />
+    <state width="1280" height="701" key="XDebugger.FullValuePopup" timestamp="1707455490045">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state width="1280" height="701" key="XDebugger.FullValuePopup/0.38.2560.1402@0.38.2560.1402" timestamp="1707455490045" />
+    <state x="860" y="343" key="run.anything.popup" timestamp="1707433981814">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="860" y="343" key="run.anything.popup/0.38.2560.1402@0.38.2560.1402" timestamp="1707433981814" />
+    <state x="859" y="338" width="882" height="1076" key="search.everywhere.popup" timestamp="1707605278129">
+      <screen x="0" y="38" width="2560" height="1402" />
+    </state>
+    <state x="859" y="338" width="882" height="1076" key="search.everywhere.popup/0.38.2560.1402@0.38.2560.1402" timestamp="1707605278129" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(filtered_df)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(df)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProssing.py" />
+    <entry file="file://$PROJECT_DIR$/load_and_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polynomial_reg.py" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-636372097&quot;,&quot;projectHash&quot;:&quot;28ec3867&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;0.1&quot;,&quot;inclusiveRef&quot;:&quot;origin/0.1&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/max/Desktop/Graduation_Project&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="417" selection-start-line="417" selection-end-line="417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/scipy/spatial/distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8930">
+          <caret line="2365" column="48" lean-forward="true" selection-start-line="2365" selection-start-column="48" selection-end-line="2365" selection-end-column="48" />
+          <caret line="2364" column="18" lean-forward="true" selection-start-line="2364" selection-start-column="18" selection-end-line="2364" selection-end-column="18" />
+          <caret line="2363" column="64" selection-start-line="2363" selection-start-column="64" selection-end-line="2363" selection-end-column="64" />
+          <caret line="2362" column="24" lean-forward="true" selection-start-line="2362" selection-start-column="24" selection-end-line="2362" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="430" column="4" selection-start-line="430" selection-start-column="4" selection-end-line="430" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/numpy/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="1072" column="8" selection-start-line="1072" selection-start-column="8" selection-end-line="1072" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.10/site-packages/sklearn/preprocessing/_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2374">
+          <caret line="651" column="21" lean-forward="true" selection-start-line="651" selection-start-column="21" selection-end-line="651" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filtering.py" />
+    <entry file="file://$PROJECT_DIR$/my_data.py" />
+    <entry file="file://$PROJECT_DIR$/get_mse.py" />
+    <entry file="file://$PROJECT_DIR$/DATA/3208 R_CFST_NM.csv" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

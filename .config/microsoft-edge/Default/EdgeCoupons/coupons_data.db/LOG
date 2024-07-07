@@ -1,0 +1,6 @@
+2024/07/06-23:00:49.559 d564 Reusing MANIFEST /home/max/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/07/06-23:00:49.559 d564 Recovering log #256
+2024/07/06-23:00:49.559 d564 Reusing old log /home/max/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000256.log 
+2024/07/06-23:00:49.627 d553 Level-0 table #260: started
+2024/07/06-23:00:49.633 d553 Level-0 table #260: 855100 bytes OK
+2024/07/06-23:00:49.636 d553 Delete type=0 #256

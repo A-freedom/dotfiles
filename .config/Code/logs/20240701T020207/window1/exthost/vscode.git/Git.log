@@ -1,0 +1,21 @@
+2024-07-01 02:02:09.614 [info] Log level: Info
+2024-07-01 02:02:09.614 [info] Validating found git in: "git"
+2024-07-01 02:02:09.614 [info] Using git "2.43.0" from "git"
+2024-07-01 02:02:09.614 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-01 02:02:09.614 [info] > git rev-parse --git-dir --git-common-dir [161ms]
+2024-07-01 02:02:09.624 [info] Open repository: /home/max/obsidian/obsidian
+2024-07-01 02:02:09.734 [info] > git rev-parse --show-toplevel [30ms]
+2024-07-01 02:02:09.734 [info] > git config --get commit.template [34ms]
+2024-07-01 02:02:09.776 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-01 02:02:09.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-07-01 02:02:09.783 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-01 02:02:09.812 [info] > git rev-parse --show-toplevel [25ms]
+2024-07-01 02:02:09.817 [info] > git status -z -uall [5ms]
+2024-07-01 02:02:09.840 [info] > git merge-base refs/heads/master refs/remotes/origin/master [18ms]
+2024-07-01 02:02:09.844 [info] > git rev-parse --show-toplevel [28ms]
+2024-07-01 02:02:09.849 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [4ms]
+2024-07-01 02:02:09.853 [info] > git config --get commit.template [13ms]
+2024-07-01 02:02:09.859 [info] > git diff --name-status -z --diff-filter=ADMR 2177e8ff4053040197df038aba88d1e08e195f40...refs/remotes/origin/master [7ms]
+2024-07-01 02:02:09.865 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-01 02:02:09.874 [info] > git status -z -uall [3ms]
+2024-07-01 02:02:10.141 [info] > git check-ignore -v -z --stdin [10ms]
