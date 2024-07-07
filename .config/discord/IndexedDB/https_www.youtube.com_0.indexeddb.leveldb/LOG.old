@@ -1,7 +1,0 @@
-2024/03/11-20:56:23.128 2a2315 Reusing MANIFEST /home/max/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/11-20:56:23.128 2a2315 Recovering log #3
-2024/03/11-20:56:23.128 2a2315 Reusing old log /home/max/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/03/11-21:17:53.197 2a344f Level-0 table #5: started
-2024/03/11-21:17:53.199 2a344f Level-0 table #5: 105403 bytes OK
-2024/03/11-21:17:53.201 2a344f Delete type=0 #3
-2024/03/11-21:17:53.201 2a344f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

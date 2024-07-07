@@ -1,7 +1,0 @@
-2024/03/24-22:44:21.190 9f3e Reusing MANIFEST /home/max/.config/discord/IndexedDB/https_880218394199220334.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/24-22:44:21.190 9f3e Recovering log #4
-2024/03/24-22:44:21.190 9f3e Reusing old log /home/max/.config/discord/IndexedDB/https_880218394199220334.discordsays.com_0.indexeddb.leveldb/000004.log 
-2024/03/24-22:44:21.215 9b1a Level-0 table #8: started
-2024/03/24-22:44:21.217 9b1a Level-0 table #8: 903 bytes OK
-2024/03/24-22:44:21.219 9b1a Delete type=0 #4
-2024/03/24-22:44:21.220 9b1a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
