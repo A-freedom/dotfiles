@@ -1,6 +1,0 @@
-2024-06-12 15:07:13.203 [info] Started local extension host with pid 69455.
-2024-06-12 15:07:13.300 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
-2024-06-12 15:07:13.431 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-06-12 15:07:15.883 [info] [perf] Render performance baseline is 19ms
-2024-06-12 15:07:35.227 [info] Settings Sync: Updating due to change in sessions
-2024-06-12 15:07:35.228 [info] Settings Sync: Updating due to change in sessions

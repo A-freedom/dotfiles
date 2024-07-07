@@ -1,4 +1,0 @@
-2024-07-07 16:56:59.008 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/max/dotfiles/readme.md","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-07-07 16:56:59.300 [info] Started local extension host with pid 72065.
-2024-07-07 16:56:59.685 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-07-07 16:57:02.299 [info] [perf] Render performance baseline is 21ms
