@@ -13,8 +13,9 @@ sudo apt upgrade -y
 - vscode
 - playerctl
 - feh
+- diodon
 ```
-sudo apt install git curl stow zsh vscode playerctl feh -y
+sudo apt install git curl stow zsh vscode playerctl feh diodon -y
 ```
 
 ### make zsh the defualt
