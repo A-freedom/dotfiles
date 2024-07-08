@@ -1,11 +1,11 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-# Path to your Oh My Zsh installation.
+# Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
-# load a random theme each time Oh My Zsh is loaded, in which case,
+# load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="evan"
@@ -70,7 +70,7 @@ ZSH_THEME="evan"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-syntax-highlighting zsh-autosuggestions history vi-mode) 
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions docker history vi-mode)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -82,52 +82,33 @@ source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='vim'
+else
+  export EDITOR='mvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# Set personal aliases, overriding those provided by Oh My Zsh libs,
-# plugins, and themes. Aliases can be placed here, though Oh My Zsh
-# users are encouraged to define aliases within a top-level file in
-# the $ZSH_CUSTOM folder, with .zsh extension. Examples:
-# - $ZSH_CUSTOM/aliases.zsh
-# - $ZSH_CUSTOM/macos.zsh
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc && source ~/.zshrc"
+#alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PATH="$PATH:/opt/nvim-linux64/bin"
 alias vim=nvim
 alias fp="ping -c 20 -f -i 0.1 "
+alias ov_connect="sudo openvpn --config Downloads/profile-720426035580505561.ovpn "
 alias system_update="sudo apt update && sudo apt upgrade -y && sudo flatpak update"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-force_copy() {
-    if [ "$#" -ne 2 ]; then
-        echo "Usage: force_copy <source_directory> <destination_directory>"
-        return 1
-    fi
 
-    local SRC_DIR="$1"
-    local DEST_DIR="$2"
-
-    mkdir -p "$DEST_DIR"
-
-    cp -r "$SRC_DIR/"* "$DEST_DIR/"
-
-    if [ $? -eq 0 ]; then
-        echo "Files copied successfully."
-    else
-        echo "Failed to copy files."
-    fi
-}
-alias fcp=force_copy
+#source /etc/profile.d/apps-bin-path.sh
+#eval "$(starship init zsh)"

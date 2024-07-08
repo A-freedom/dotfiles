@@ -11,8 +11,10 @@ sudo apt upgrade -y
 - stow
 - zsh
 - vscode
+- playerctl
+- feh
 ```
-sudo apt install git curl stow zsh vscode -y
+sudo apt install git curl stow zsh vscode playerctl feh -y
 ```
 
 ### make zsh the defualt
