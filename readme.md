@@ -44,5 +44,5 @@ sudo tar -C /opt -xzf nvim-linux64.tar.gz
 
 ### finaly copy the dotfiles to your system
 ```
-stow --adopt .
+stow .
 ```
