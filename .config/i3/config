@@ -244,6 +244,6 @@ exec --no-startup-id nmcli connection up 192.168.89.14
 bindsym $mod+v exec diodon
 
 # keyboard remaping
-exec --no-startup-id xmodmap .config/xmodmap
+exec --no-startup-id sh -c "sleep 1 && xmodmap ~/.config/xmodmap"
 bindsym Shift+Escape exec xdotool key Caps_Lock
 
