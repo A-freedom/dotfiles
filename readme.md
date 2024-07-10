@@ -54,12 +54,12 @@ stow .
 ### remaping keyboard layout
 - maping CapsLock to Esc
 - making Shift+CapsLock work as CapsLock
-#### add the flowing line to file `/etc/X11/xorg.conf.d/00-keyboard.conf`
+By add the flowing line to file `/etc/X11/xorg.conf.d/00-keyboard.conf`
 ```bash
     Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
 ```
 ### changing the funcationality of the power buttom
-add or change the flowing lins to file `/etc/systemd/logind.conf`
+By add or change the flowing lins to file `/etc/systemd/logind.conf`
 ```bash
     HandlePowerKey=suspend
     HandlePowerKeyLongPress=poweroff   
