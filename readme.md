@@ -14,8 +14,9 @@ sudo apt upgrade -y
 - playerctl
 - feh
 - diodon
+- compton
 ```
-sudo apt install git curl stow zsh vscode playerctl feh diodon -y
+sudo apt install git curl stow zsh vscode playerctl feh diodon compton -y
 ```
 
 ### make zsh the defualt
@@ -46,3 +47,19 @@ sudo tar -C /opt -xzf nvim-linux64.tar.gz
 ```
 stow .
 ```
+
+## other system configrations
+
+### remaping keyboard layout
+    - maping CapsLock to Esc
+    - making Shift+CapsLock work as CapsLock
+    #### add the flowing line to `/etc/X11/xorg.conf.d/00-keyboard.conf`
+    ```bash
+    	Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
+    ```
+### changing the funcationality of the power buttom
+    add or change the flowing lins to '/etc/systemd/logind.conf'
+    ```bash
+        HandlePowerKey=suspend
+        HandlePowerKeyLongPress=poweroff   
+    ```

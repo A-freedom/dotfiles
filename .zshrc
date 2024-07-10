@@ -98,12 +98,10 @@ fi
 #
 # Example aliases
 alias zshconfig="vim ~/.zshrc && source ~/.zshrc"
-#alias ohmyzsh="mate ~/.oh-my-zsh"
-
+alias i3config="vim ~/.config/i3/config"
 export PATH="$PATH:/opt/nvim-linux64/bin"
 alias vim=nvim
 alias fp="ping -c 20 -f -i 0.1 "
-alias ov_connect="sudo openvpn --config Downloads/profile-720426035580505561.ovpn "
 alias system_update="sudo apt update && sudo apt upgrade -y && sudo flatpak update"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
