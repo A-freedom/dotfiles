@@ -16,8 +16,9 @@ sudo apt upgrade -y
 - feh
 - diodon
 - compton
+- polybar
 ```
-sudo apt install git curl stow zsh vscode playerctl feh diodon compton -y
+sudo apt install git curl stow zsh vscode playerctl feh diodon compton polybar -y
 ```
 
 ### make zsh the defualt
