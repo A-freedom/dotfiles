@@ -47,35 +47,6 @@ if prompt_install "zsh as default shell"; then
     chsh -s $(which zsh)
 fi
 
-# Install oh-my-zsh
-if prompt_install "oh-my-zsh"; then
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-fi
-
-# Install powerlevel10k theme
-if prompt_install "powerlevel10k theme"; then
-    git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
-fi
-
-# Install Zsh plugins
-if prompt_install "zsh-autosuggestions plugin"; then
-    git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
-fi
-
-if prompt_install "zsh-syntax-highlighting plugin"; then
-    git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
-fi
-
-if prompt_install "zsh-vi-mode plugin"; then
-    git clone https://github.com/jeffreytse/zsh-vi-mode $ZSH_CUSTOM/plugins/zsh-vi-mode
-fi
-
-# Install Neovim
-if prompt_install "neovim"; then
-    curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
-    sudo rm -rf /opt/nvim
-    sudo tar -C /opt -xzf nvim-linux64.tar.gz
-fi
 
 # Copy dotfiles to the system
 if prompt_install "dotfiles using stow"; then
