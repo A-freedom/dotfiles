@@ -1,5 +1,17 @@
 #!/bin/bash
 
+function install_i3_gaps() {
+  mkdir /tmp/build 
+  cd /tmp/build
+  git clone https://www.github.com/Airblader/i3 i3-gaps
+  cd i3-gaps
+  git checkout gaps && git pull
+  sudo apt install meson asciidoc
+  meson -Ddocs=true -Dmans=true ../build
+  meson compile -C ../build
+  sudo meson install -C ../build
+}
+
 # Function to prompt for user input
 prompt_install() {
     read -p "Do you want to install $1? (y/n) " choice
@@ -19,7 +31,7 @@ sudo apt upgrade -y
 packages=()
 
 # Check if the user wants to install each package
-for program in git curl stow zsh code playerctl feh diodon compton polybar alacritty i3; do
+for program in git curl stow zsh neovim code playerctl feh diodon compton polybar alacritty i3; do
     if prompt_install "$program"; then
         packages+=("$program")
     fi
