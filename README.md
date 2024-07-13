@@ -20,7 +20,7 @@ sudo apt upgrade -y
 - alacritty
 - i3
 ```
-sudo apt install git curl stow zsh vscode playerctl feh diodon compton polybar alacritty i3 -y
+sudo apt install git curl stow zsh code playerctl feh diodon compton polybar alacritty i3 -y
 ```
 
 ### make zsh the defualt
@@ -33,6 +33,10 @@ chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+### installing powerleve10
+```
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
 ### installing addons
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
