@@ -23,10 +23,9 @@ prompt_install() {
     esac
 }
 
-# Update and upgrade the system
-echo "Updating and upgrading the system..."
+# Update the system
+echo "Updating the system..."
 sudo apt update
-sudo apt upgrade -y
 
 
 # Check if the user wants to install each package
