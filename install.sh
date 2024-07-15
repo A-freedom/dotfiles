@@ -33,20 +33,7 @@ sudo apt upgrade -y
 sudo apt install git curl stow zsh neovim playerctl feh diodon compton polybar alacritty i3
 # Make Zsh the default shell
 chsh -s $(which zsh)
-
-# Install powerlevel10k theme
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
-#
-# Install Zsh plugins
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
-
-# Install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-
-
-
+sudo -k chsh -s $(which zsh) "$USER"  # -k forces the password prompt
 
 # Copy dotfiles to the system
 rm -rf ~/.zshrc
