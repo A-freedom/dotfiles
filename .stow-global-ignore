@@ -22,3 +22,8 @@ _darcs
 ^/LICENSE.*
 ^/COPYING
 install.sh
+.gitmodules
+install.sh
+README.md
+.stow-global-ignore
+
