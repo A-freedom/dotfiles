@@ -159,6 +159,7 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 assign [Class="Microsoft-edge"] $ws1
 assign [Class="firefox"] $ws1
 assign [Class="konsole"] $ws2
+assign [Class="Alacritty"] $ws2
 assign [Class="dev.warp.Warp"] $ws2
 assign [Class="discord"] $ws10
 assign [Class="Spotify"] $ws10

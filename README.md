@@ -19,9 +19,10 @@ sudo apt upgrade -y
 - polybar
 - alacritty
 - i3
+- ibus
 ```
-sudo apt install git curl stow zsh code playerctl feh diodon compton polybar alacritty i3 -y
-```
+sudo apt install git curl stow zsh code playerctl feh diodon compton polybar alacritty i3 ibus -y
+``` 
 
 ### make zsh the defualt
 ```
