@@ -1,0 +1,8 @@
+[user]
+	name = A-freedom
+	email = ali.musa.omran+github@gmail.com
+[core]
+	autocrlf = input
+	editor = vim
+[credential]
+	helper = store
