@@ -120,3 +120,15 @@ export NVM_DIR="$HOME/.nvm"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# Add fuzzy history search with sorting by most recent first
+fzf-history-widget() {
+  local selected num
+  selected=$(fc -rl 1 | awk '{$1=""; print substr($0,2)}' | fzf --height 40% --layout=reverse --border --info=inline --no-sort)
+  LBUFFER=$selected
+  CURSOR=$#LBUFFER
+  zle reset-prompt
+}
+zle -N fzf-history-widget
+bindkey '^R' fzf-history-widget
+
