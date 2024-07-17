@@ -81,17 +81,26 @@ Welcome to my dotfiles repository. Below is an overview of what you will get:
 - **Map Caps Lock to Escape**
 - **Make Shift + Caps Lock work as Caps Lock**
 
-Add the following line to `/etc/X11/xorg.conf.d/00-keyboard.conf`:
+change the content of the file `/etc/X11/xorg.conf.d/00-keyboard.conf`:
 
 ```bash
-Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
+# Read and parsed by systemd-localed. It's probably wise not to edit this file
+# manually too freely.
+Section "InputClass"
+        Identifier "system-keyboard"
+        MatchIsKeyboard "on"
+        Option "XkbLayout" "us"
+        Option "XkbVariant" ""
+	Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
+EndSection
 ```
 
 ### Changing the Functionality of the Power Button
 
-Add or change the following lines in `/etc/systemd/logind.conf`:
+change the content of the file `/etc/systemd/logind.conf`:
 
 ```bash
+[Login]
 HandlePowerKey=suspend
 HandlePowerKeyLongPress=poweroff
 ```
