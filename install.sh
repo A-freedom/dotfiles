@@ -38,4 +38,22 @@ sudo -k chsh -s $(which zsh) "$USER"  # -k forces the password prompt
 rm -rf ~/.zshrc
 stow .
 
+# Remapping Keyboard Layout
+cat <<EOF | sudo tee /etc/X11/xorg.conf.d/00-keyboard.conf
+# Read and parsed by systemd-localed. It's probably wise not to edit this file
+# manually too freely.
+Section "InputClass"
+        Identifier "system-keyboard"
+        MatchIsKeyboard "on"
+        Option "XkbLayout" "us"
+        Option "XkbVariant" ""
+        Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
+EndSection
+EOF
 
+# Changing the Functionality of the Power Button
+cat <<EOF | sudo tee /etc/systemd/logind.conf
+[Login]
+HandlePowerKey=suspend
+HandlePowerKeyLongPress=poweroff
+EOF
