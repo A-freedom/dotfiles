@@ -1,17 +1,67 @@
-## user preprations
+# Dotfiles Repository
 
-### system update
-```
-sudo apt update
-sudo apt upgrade -y
-```
+Welcome to my dotfiles repository. Below is an overview of what you will get:
 
-### installing
+## i3 Window Manager Configuration
+
+- **Polybar**: Themed configuration
+- **Rofi**: Application launcher
+- **Diodon**: Clipboard manager
+- **Compton**: Window composition manager
+
+### i3 Configuration Details
+
+- **Terminal**: Alacritty
+- **Browser**: Microsoft Edge
+- **Startup Executions**:
+  - Set gaps (inner 8)
+  - Disable title bar and replacing it with (polybar)
+  - Set screen resolution and refresh rate (xrandr)
+  - Set transparent window (compton)
+  - Set wallpaper (feh)
+  - Start networks (nmcli)
+  - clipboard manager shortcut (diodon)
+  - Workspace and application assignments, using vim motion `mod + [h,j,k,l]` rather that the defualt `mode + [j,k,l,;]`
+  - Enable Urgent window focus
+  - System modes (lock, exit, suspend, reboot, poweroff) `mod + end`
+- **Key Bindings**:
+  - Mod4 (Super) as modifier key
+  - Various key bindings for window focus, movement, and layout , using vim motion `mod + [h,j,k,l]` rather that the defualt `mode + [j,k,l,;]`
+  - Application launcher (Rofi), `mod + p`
+  - Media player controls (Playerctl) `keyboard media buttoms and volume scroll wheel`
+  - System actions (lock, exit, suspend, reboot, poweroff), A menu `mod + end`, unfortunatley the menu cann't be see because the disableing of the defualt title bar
+
+
+## Neovim
+
+- Install Neochad
+
+## Terminal Setup
+
+- **Install Zsh** as the main shell
+- **Install Oh-My-Zsh** for plugin management
+- **Plugins**:
+  1. Powerlevel10k: Configuring the prompt
+  2. zsh-vi-mode: Vim-like motion support
+  3. zsh-syntax-highlighting: Syntax highlighting
+  4. zsh-autosuggestions: Auto-suggestions and completions
+  5. Git plugin
+
+### Alacritty Configuration
+
+- **Font Settings**:
+  - Size: 16.0
+  - Family: "JetBrainsMono Nerd Font"
+  - Styles: Bold, Bold Italic, Italic, Regular
+- **Window Padding**: 15px (x and y)
+
+## Packages to be Installed
+
 - git
 - curl
 - stow
 - zsh
-- vscode
+- neovim
 - playerctl
 - feh
 - diodon
@@ -20,55 +70,28 @@ sudo apt upgrade -y
 - alacritty
 - i3
 - ibus
-```
-sudo apt install git curl stow zsh code playerctl feh diodon compton polybar alacritty i3 ibus -y
-``` 
+- rofi
+- fzf
 
-### make zsh the defualt
-```
-chsh -s $(which zsh)
-```
 
-### installing oh-my-zsh
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
+## Other System Configurations
 
-### installing powerleve10
-```
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
-```
-### installing addons
-```
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
-git clone https://github.com/jeffreytse/zsh-vi-mode $ZSH_CUSTOM/plugins/zsh-vi-mode
-```
+### Remapping Keyboard Layout
 
-### installing neovim
-```
-curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
-sudo rm -rf /opt/nvim
-sudo tar -C /opt -xzf nvim-linux64.tar.gz
-```
+- **Map Caps Lock to Escape**
+- **Make Shift + Caps Lock work as Caps Lock**
 
-### finaly copy the dotfiles to your system
-```
-stow .
-```
+Add the following line to `/etc/X11/xorg.conf.d/00-keyboard.conf`:
 
-## other system configrations
-
-### remaping keyboard layout
-- maping CapsLock to Esc
-- making Shift+CapsLock work as CapsLock
-By add the flowing line to file `/etc/X11/xorg.conf.d/00-keyboard.conf`
 ```bash
-    Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
+Option "XkbOptions" "terminate:ctrl_alt_bksp,caps:escape_shifted_capslock"
 ```
-### changing the funcationality of the power buttom
-By add or change the flowing lins to file `/etc/systemd/logind.conf`
+
+### Changing the Functionality of the Power Button
+
+Add or change the following lines in `/etc/systemd/logind.conf`:
+
 ```bash
-    HandlePowerKey=suspend
-    HandlePowerKeyLongPress=poweroff   
+HandlePowerKey=suspend
+HandlePowerKeyLongPress=poweroff
 ```

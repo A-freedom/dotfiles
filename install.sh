@@ -29,7 +29,7 @@ sudo apt update
 
 
 # Check if the user wants to install each package
-sudo apt install git curl stow zsh neovim playerctl feh diodon compton polybar alacritty i3 ibus rofi -y
+sudo apt install git curl stow zsh neovim playerctl feh diodon compton polybar alacritty i3 ibus rofi fzf -y
 # Make Zsh the default shell
 chsh -s $(which zsh)
 sudo -k chsh -s $(which zsh) "$USER"  # -k forces the password prompt
