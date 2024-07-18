@@ -123,12 +123,12 @@ bindsym $mod+a focus parent
 set $ws1 "1: Browser "
 set $ws2 "2: Terminal"
 set $ws3 "3: Coding"
-set $ws4 "4"
-set $ws5 "5"
-set $ws6 "6"
-set $ws7 "7"
-set $ws8 "8"
-set $ws9 "9"
+set $ws4 "4: Work Place"
+set $ws5 "5: Work Place"
+set $ws6 "6: Work Place"
+set $ws7 "7: Work Place"
+set $ws8 "8: Work Place"
+set $ws9 "9: Work Place"
 set $ws10 "10: Media"
 
 # switch to workspace
