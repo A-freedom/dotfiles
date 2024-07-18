@@ -9,22 +9,23 @@ vim.api.nvim_set_keymap('v', 'c', '"_c', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('v', 'C', '"_C', { noremap = true, silent = true })
 
 vim.g.mapleader = "z"
+vim.g.mapleader = " "
 
 -- Remap to go to the start of the line
-vim.api.nvim_set_keymap('n', '<leader>h', '^', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('v', '<leader>h', '^', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', 'zh', '^', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('v', 'zh', '^', { noremap = true, silent = true })
 
 -- Remap to go to the end of the line
-vim.api.nvim_set_keymap('n', '<leader>l', '$', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('v', '<leader>l', '$', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', 'zl', '$', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('v', 'zl', '$', { noremap = true, silent = true })
 
 -- Remap to go to the start of the file
-vim.api.nvim_set_keymap('n', '<leader>k', 'gg', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('v', '<leader>k', 'gg', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', 'zk', 'gg', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('v', 'zk', 'gg', { noremap = true, silent = true })
 
 -- Remap to go to the end of the file
-vim.api.nvim_set_keymap('n', '<leader>j', 'G', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('v', '<leader>j', 'G', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', 'zj', 'G', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('v', 'zj', 'G', { noremap = true, silent = true })
 
 -- Enable both normal and relative line numbering
 vim.api.nvim_exec([[
