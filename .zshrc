@@ -92,7 +92,7 @@ source $ZSH/oh-my-zsh.sh
 if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'
 else
-  export EDITOR='mvim'
+  export EDITOR='nvim'
 fi
 
 # Compilation flags
@@ -113,6 +113,13 @@ alias system_update="sudo apt update && sudo apt upgrade -y && sudo flatpak upda
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# ADdd a shortcut to Catl + L --> clean
+function clear-screen {
+  clear
+}
+
+zle -N clear-screen
+bindkey '^L' clear-screen
 
 
 #source /etc/profile.d/apps-bin-path.sh
@@ -131,4 +138,6 @@ fzf-history-widget() {
 }
 zle -N fzf-history-widget
 bindkey '^R' fzf-history-widget
+
+
 
